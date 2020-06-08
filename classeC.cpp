@@ -23,4 +23,5 @@ void C::MC2(){
 }
 
 void C::MC3(){
-  cout << "Alteração a classe C partir do clone" << endl;
+  cout << "Alteração a classe C partir do clone" << endl; 
+}

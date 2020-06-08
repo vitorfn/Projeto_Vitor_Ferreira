@@ -43,3 +43,4 @@ void B::MB2(){
 
 void B::MB3(){
   cout << "Alteração a classe B partir do clone" << endl;
+}
