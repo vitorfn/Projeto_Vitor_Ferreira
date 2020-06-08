@@ -6,6 +6,7 @@ class D{
     D();
     void MD1();
     void MD2();
+    void MD3();
     void MD4();
 };
 
@@ -20,6 +21,10 @@ void D::MD1(){
 
 void D::MD2(){
     cout << "MD2" << endl;
+}
+
+void D:MD3() {
+    cout << "Alteração a classe D partir do clone" << endl;
 }
 
 void D::MD4(){
